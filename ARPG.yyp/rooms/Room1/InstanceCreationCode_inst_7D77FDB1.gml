@@ -1,0 +1,1 @@
+sprite_index = spr_sword_1;

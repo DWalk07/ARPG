@@ -1,0 +1,2 @@
+damageable = true;
+
